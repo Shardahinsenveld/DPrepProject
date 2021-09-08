@@ -1,5 +1,5 @@
 # DPrepProject Team 5
-
+Sharda Hinsenveld, Lotte Verkuijlen, Nikki Tissen, Lauren, Miranda
 # Short project title
 
 __Long project title, e.g., research question__
